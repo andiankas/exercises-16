@@ -22,4 +22,6 @@ CETAK GENERASI Z
 JIKA TAHUN LAHIR LEBIH DARI TAHUN 2010 MAKA MERUPAKAN GENERASI ALPHA
 CETAK GENERASI ALPHA
 
+---
 
+untuk lihat app nya bisa ke [Repl.it](https://repl.it/@andiankas17/Exercises-16-WEEKLY-PROJECT-Simple-JavaScript-App)
